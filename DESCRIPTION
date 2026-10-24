@@ -1,0 +1,47 @@
+Package: ltvlms
+Type: Package
+Title: Linear Time-Variant Logistic Models with a Shape Parameter
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Redouane", "Betrouni",
+      email = "redouane.betrouni@census.gov",
+      role = "aut",
+      comment = c(ORCID = "0000-0001-7374-4391")
+    ),
+    person(
+      "Tewfik", "Kernane",
+      email = "t.kernane@qu.edu.sa",
+      role = "aut",
+      comment = c(ORCID = "0000-0002-8423-567X")
+    ),
+    person(
+      "Bander", "Hussein",
+      email = "bshussein@gmail.com",
+      role = c("aut", "cre"),
+      comment = c(ORCID = "0009-0007-3850-1598")
+    )
+  )
+Description: Evaluates and fits the Linear Time-Variant Logistic Model with
+    Shape Parameter (LTVLMS) for dynamic growth processes. The model combines
+    a linearly time-varying growth rate with a shape parameter for asymmetric
+    trajectories and includes numerically stable prediction utilities.
+    Methodological details are provided by Betrouni and Kernane (2026)
+    "Linear Time-Varying Logistic Model With Shape Parameter for Dynamic
+    Epidemic Modeling" <doi:10.1155/jama/4928447>.
+Depends: R (>= 4.0.0)
+License: MIT + file LICENSE
+Copyright: Package code and documentation are copyright the listed
+        authors. The included UNAIDS-derived datasets remain subject to
+        the UNAIDS terms identified in inst/COPYRIGHTS.
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2026-10-15 18:03:31 UTC; bander
+Author: Redouane Betrouni [aut] (ORCID:
+    <https://orcid.org/0000-0001-7374-4391>),
+  Tewfik Kernane [aut] (ORCID: <https://orcid.org/0000-0002-8423-567X>),
+  Bander Hussein [aut, cre] (ORCID:
+    <https://orcid.org/0009-0007-3850-1598>)
+Maintainer: Bander Hussein <bshussein@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-10-24 16:20:08 UTC

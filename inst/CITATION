@@ -1,0 +1,40 @@
+bibentry(
+  bibtype = "Manual",
+  title = "ltvlms: Linear Time-Variant Logistic Models with a Shape Parameter",
+  author = c(
+    person(
+      "Redouane", "Betrouni",
+      comment = c(ORCID = "0000-0001-7374-4391")
+    ),
+    person(
+      "Tewfik", "Kernane",
+      comment = c(ORCID = "0000-0002-8423-567X")
+    ),
+    person(
+      "Bander", "Hussein",
+      comment = c(ORCID = "0009-0007-3850-1598")
+    )
+  ),
+  year = "2026",
+  note = "R package version 0.1.0"
+)
+
+bibentry(
+  bibtype = "Article",
+  title = "Linear Time-Varying Logistic Model With Shape Parameter for Dynamic Epidemic Modeling",
+  author = c(
+    person(
+      "Redouane", "Betrouni",
+      comment = c(ORCID = "0000-0001-7374-4391")
+    ),
+    person(
+      "Tewfik", "Kernane",
+      comment = c(ORCID = "0000-0002-8423-567X")
+    )
+  ),
+  journal = "Journal of Applied Mathematics",
+  year = "2026",
+  volume = "2026",
+  pages = "1--8",
+  doi = "10.1155/jama/4928447"
+)

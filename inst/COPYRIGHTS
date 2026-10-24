@@ -1,0 +1,13 @@
+The R source code and package documentation are copyright Redouane Betrouni,
+Tewfik Kernane, and Bander Hussein and are distributed under the MIT license.
+
+The datasets in data/hiv_prevalence_63.rda and
+data/south_africa_hiv.rda contain estimates derived from:
+
+  UNAIDS 2024, HIV estimates with uncertainty bounds, 1990-2023.
+  https://aidsinfo.unaids.org/dataset
+
+The UNAIDS-derived data are not covered by the package's MIT license. Their
+use remains subject to the UNAIDS terms of use:
+
+  https://www.unaids.org/en/terms-of-use
